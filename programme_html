@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="fr">
+<meta charset="utf-8" />
+ <body>
+ <br><br><br>
+ <form
+action="https://api.particle.io/v1/devices/270038001347343438323536/maled?access_
+token=52e8139b31c10319c74f6bd20377731b18eed3f6" method="POST">
+ Commande du robot Mbot :<br>
+ <br>
+ Veuillez entrez la commande que vous voulez pour piloter le robot :
+ <input type="text" id="uname" name="name" >
+ <br>
+ <br>
+ <input type="submit" value="VALIDER">
+ </form>
+</body>
+</html>
